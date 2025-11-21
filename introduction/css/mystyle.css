@@ -3,6 +3,11 @@ body {
 }
 
 h1 {
-  color: rgb(222, 232, 84);
+  color: rgb(98, 72, 13);
   margin-left: 20px;
+}
+
+p {
+  text-align: center;
+  color:antiquewhite
 }
