@@ -5,9 +5,9 @@ body {
 h1 {
   color: rgb(98, 72, 13);
   margin-left: 20px;
+  text-align: center;
 }
 
 p {
   text-align: center;
-  color:antiquewhite
 }
