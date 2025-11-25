@@ -1,7 +1,7 @@
 .container {
   display: flex;
   flex-wrap: wrap;
-  background-color: #FFD54F;
+  background-color: rgb(246 237 164);
 }
 
 .container div {
@@ -26,6 +26,7 @@ h3 {
   margin-top: 20px;
   margin-bottom: 10px;
 }
+
 
 
 
