@@ -1,7 +1,7 @@
 .container {
   display: flex;
   flex-wrap: wrap;
-  background-color: DodgerBlue;
+  background-color: rgb(221, 234, 116);
 }
 
 .container div {
@@ -11,4 +11,5 @@
   padding: 10px;
   text-align: center;  
   font-size: 30px;
+  border-radius: 10px;
 }
