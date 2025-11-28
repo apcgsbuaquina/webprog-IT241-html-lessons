@@ -1,14 +1,17 @@
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  background-color: rgb(241, 209, 104);
+  background-color: rgba(240, 211, 50, 0.952);
   padding: 5px;
   gap: 5px;
 }
 .container div {
-  background-color: #fac430;
-  color: #000;
+  background-color: #fcd66de8;
+  color: #6E260E;
   padding: 10px;
   font-size: 30px;
-  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 2px;
 }
